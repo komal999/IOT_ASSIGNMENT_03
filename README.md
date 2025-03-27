@@ -24,5 +24,5 @@ pip install -r requirements.txt  # Assuming you have a requirements.txt
 
  to run the scripts and what each script does:
 
-python virtual_sensor.py  # Runs the virtual sensor simulation
-python data_display.py    # Displays data from ThingSpeak
+python virtual_sensor_data.py  # Runs the virtual sensor simulation
+python sensor_data_display.py    # Displays data from ThingSpeak
