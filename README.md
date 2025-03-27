@@ -16,7 +16,7 @@ Provide a brief description of the architecture of your system, how components l
 Detail the steps needed to clone, set up, and run your project:
 
 ```bash
-git clone https://github.com/yourusername/IOT_ASSIGNMENT_03.git
+git clone https://github.com/komal999/IOT_ASSIGNMENT_03.git
 cd iot-environment-monitoring
 pip install -r requirements.txt  # Assuming you have a requirements.txt
 
