@@ -17,7 +17,7 @@ Detail the steps needed to clone, set up, and run your project:
 
 ```bash
 git clone https://github.com/komal999/IOT_ASSIGNMENT_03.git
-cd iot-environment-monitoring
+cd IOT_ASSIGNMENT_03
 pip install -r requirements.txt  # Assuming you have a requirements.txt
 
 ## Usage
